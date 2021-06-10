@@ -4,6 +4,8 @@ public abstract class Shape {
 	
 	protected String fillColor;
 	
+	
+	
 	public Shape() {
 		
 	}
@@ -11,6 +13,9 @@ public abstract class Shape {
 	public Shape(String fillColor){
 		this.fillColor=fillColor;
 	}
+	
+	
+	
 	
 	public abstract void draw();
 	

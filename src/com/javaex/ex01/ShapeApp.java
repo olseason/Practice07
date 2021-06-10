@@ -17,6 +17,7 @@ public class ShapeApp {
 		System.out.println("sr1의 가로는 " + ((Rectangle)sr1).GetWidth() + " 입니다.");
 		
 		
+		
 	}
 }
 
